@@ -58,8 +58,8 @@ Project developed during Ignite Lab from [Rocketseat](https://www.rocketseat.com
 ### Pre-requisites
 
 Before you begin, you will need to have the following tools installed on your machine:
-[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/), [Expo Go] (https://expo.dev/client), [Android Studio] (https://developer.android.com/studio).
-In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/) and you need an Google Account to use Firebase services.
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo Go](https://expo.dev/client), [Android Studio](https://developer.android.com/studio).
+In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/) and you need an Google Account to use Firebase services.
 
 #### Running the web application (Mobile)
 
